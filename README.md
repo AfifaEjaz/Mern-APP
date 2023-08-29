@@ -1,6 +1,6 @@
 # MERN STACK APP
 ## Live URL
-https://fine-rose-bass-cuff.cyclic.cloud/
+https://jealous-ruby-sea-lion.cyclic.app/
 
 ## Overview
 Welcome to the documentation of my website that, I've developed using React, Express, MongoDB, Bootstrap, and hosted with Cyclic. This website consists of three main functionalities: User, Admin, and Guest, each catering to different user roles. This documentation will guide you through the key aspects of my website.
