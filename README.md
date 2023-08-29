@@ -2,10 +2,37 @@
 ## Live URL
 https://fine-rose-bass-cuff.cyclic.cloud/
 
+## Overview
+Welcome to the documentation of my website that, I've developed using React, Express, MongoDB, Bootstrap, and hosted with Cyclic. This website consists of three main functionalities: User, Admin, and Guest, each catering to different user roles. This documentation will guide you through the key aspects of my website.
+
 ## Technologies Used
-1.  **Frontend:** React
+1.  **Frontend:** React, Bootstrap
 2. **Backend:** Express.js
 3. **Database:** MongoDB
+3. **Hosting:** Cyclic
+
+
+## Panels:
+### Admin Panel
+The Admin panel is designed for administrators to manage users, posts, and perform administrative tasks.
+
+1. **Post Management:** Administrators can create, edit, and delete posts.
+2. **Admin Dashboard:** An overview of important site statistics and analytics.
+
+### User Panel
+The User panel is designed for registered users to interact with the website, make purchases, and track their orders.
+
+1. **Browse Products:** Users can view a catalog of available products.
+2. **Add to Cart:** Users can add products to their cart for purchase.
+3. **View Cart:** Users can see the products they've added to the cart.
+4. **Place Order:**  Users can finalize their cart contents and place an order.
+5. **Order Tracking:** Users can track the status of their orders.
+
+### Guest Panel
+The Guest panel is accessible to users who are not logged in.
+
+1. **Home Page:** An introduction to the website's purpose.
+2. **Registration:** Guests can sign up for a user account.
 
 ## API Reference
 
